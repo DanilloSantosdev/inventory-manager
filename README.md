@@ -32,7 +32,7 @@ inventory-manager/
 Clone the repository and set up a virtual environment:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/DanilloSantosdev/inventory-manager.git
 cd inventory-manager
 
 python3 -m venv venv
