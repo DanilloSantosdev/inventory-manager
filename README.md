@@ -49,3 +49,4 @@ python3 src/main.py
 - Add static typing checks (`mypy`)
 - Improve input validation and error handling
 - Explore persistence (saving/loading inventory data)
+
